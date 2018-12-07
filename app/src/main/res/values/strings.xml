@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MicroTareasUI</string>
+    <string name="activity1">Actividad Tema 1</string>
+    <string name="activity2">Actividad Time Picker</string>
+    <string name="activity3">Actividad Web View</string>
+    <string name="activity4">Actividad Spinner</string>
+    <string name="activity5">Actividad Toolbar</string>
+    <string name="activity6">Actividad Dialogo</string>
+    <string name="activity7">Actividad Progress bar</string>
+    <string name="activity8">Actividad Linear Layout</string>
+    <string name="activity9">Actividad Table Layout</string>
+    <string name="activity10">Actividad Grid Layout</string>
+    <string name="back">Menu</string>
+    <string name="title_activity_web_app">WebApp</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>United States</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Ecuador</item>
+        <item>England</item>
+    </string-array>
+
+</resources>
